@@ -1,0 +1,7 @@
+Battery_ID,Battery_Type,Pack_Configuration,Nominal_Voltage_V,Nominal_Capacity_Ah,Nominal_Energy_Wh,Historical_Cycles,Estimated_Age_Years,Measured_Voltage_V,Measured_Current_A,Internal_Resistance_mOhm,Operating_Temperature_C,Temp_Rise_Rate_C_per_min,Physical_Casing_Condition,Swelling_Deformation,Electrolyte_Leakage_Observation,Primary_Diagnosed_Issue
+B001,Li-ion 18650 Pack (3S),3S,11.1,4.4,48.8,420,2.0,11.2,1.2,55.0,27.5,0.25,Intact (Good),None (0-1%),None,None (Fully Functional)
+B002,LiFePO4 (LFP) Module (4S),4S,12.8,6.0,76.8,620,3.0,12.9,1.1,62.0,31.0,0.30,Intact (Good),None (0-1%),None,Temperature Sensor Lead Detachment
+B003,NMC Light-EV Pack (10S),10S,36.0,7.8,280.8,950,4.0,24.0,2.0,185.0,52.0,2.80,Severely Distorted / Puffed,Severe Swelling (>6%),None,Uncontrolled Cell Overheating
+B004,Li-ion 18650 Pack (4S),4S,14.8,5.2,77.0,580,3.0,14.7,1.0,58.0,28.0,0.20,Intact (Good),None (0-1%),None,High-Resistance Connector Degradation
+B005,Power Tool Li-ion Pack (5S),5S,18.0,4.0,72.0,1250,4.5,18.1,0.9,135.0,32.0,0.35,Intact (Good),None (0-1%),None,Irreversible Cell Over-discharge
+B006,Prismatic Li-ion Module (2S),2S,7.4,10.0,74.0,310,1.5,7.5,1.3,42.0,26.5,0.18,Intact (Good),None (0-1%),None,None (Fully Functional)

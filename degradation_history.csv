@@ -1,0 +1,67 @@
+Rebuilt_Pack_ID,Operating_Cycle,Capacity_Retention_Percent,Internal_Resistance_Growth_Percent,Cell_Delta_V_Imbalance_mV,Thermal_Operating_Delta_C,BMS_Balancing_Efficiency_Percent,Degradation_State,Feedback_Recommendation
+REBUILT_TGT01_001,0,100.3,-0.4,7.9,1.17,99.3,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT01_001,50,98.7,3.7,8.7,1.88,98.5,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT01_001,100,96.5,7.2,10.7,1.99,97.5,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT01_001,150,93.7,9.9,17.0,2.03,96.9,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT01_001,200,92.7,13.1,15.9,2.54,96.3,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT01_001,250,90.2,15.2,19.4,3.39,95.5,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT01_001,300,88.7,20.0,20.3,3.78,94.6,Moderate Aging (Balancing Active),Optimal Performance
+REBUILT_TGT01_001,350,87.2,22.9,22.2,3.75,94.0,Moderate Aging (Balancing Active),Recalibrate Cell String 2
+REBUILT_TGT01_001,400,84.5,25.7,23.0,4.19,93.8,Moderate Aging (Balancing Active),Recalibrate Cell String 2
+REBUILT_TGT01_001,450,83.4,30.2,24.5,4.81,92.1,Secondary Retirement Review Required,Recalibrate Cell String 2
+REBUILT_TGT01_001,500,80.7,32.0,29.5,5.12,92.0,Secondary Retirement Review Required,Recalibrate Cell String 2
+REBUILT_TGT02_001,0,100.2,1.2,6.2,1.45,99.5,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT02_001,50,97.7,3.8,10.4,1.55,98.2,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT02_001,100,95.9,7.5,12.0,2.16,97.5,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT02_001,150,94.0,10.3,12.4,2.32,97.0,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT02_001,200,92.4,12.9,16.5,2.94,96.4,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT02_001,250,90.1,16.1,19.4,3.38,95.0,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT02_001,300,88.7,18.5,20.1,3.98,94.4,Moderate Aging (Balancing Active),Optimal Performance
+REBUILT_TGT02_001,350,86.4,23.1,20.1,3.87,94.1,Moderate Aging (Balancing Active),Recalibrate Cell String 2
+REBUILT_TGT02_001,400,84.5,25.9,24.9,4.48,93.3,Moderate Aging (Balancing Active),Recalibrate Cell String 2
+REBUILT_TGT02_001,450,82.8,29.4,25.9,4.89,92.3,Secondary Retirement Review Required,Recalibrate Cell String 2
+REBUILT_TGT02_001,500,80.9,32.0,28.0,5.04,91.4,Secondary Retirement Review Required,Recalibrate Cell String 2
+REBUILT_TGT03_001,0,100.1,0.1,8.9,1.11,99.3,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT03_001,50,98.3,3.5,9.0,1.63,98.6,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT03_001,100,96.2,5.5,12.2,2.44,97.6,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT03_001,150,94.0,9.9,14.4,2.64,96.6,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT03_001,200,92.7,13.3,15.8,2.87,96.5,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT03_001,250,90.8,15.7,19.0,3.19,95.5,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT03_001,300,88.6,19.4,21.4,3.58,94.4,Moderate Aging (Balancing Active),Optimal Performance
+REBUILT_TGT03_001,350,86.5,22.8,23.5,4.12,93.7,Moderate Aging (Balancing Active),Recalibrate Cell String 2
+REBUILT_TGT03_001,400,85.8,26.1,25.5,4.37,93.4,Moderate Aging (Balancing Active),Recalibrate Cell String 2
+REBUILT_TGT03_001,450,83.2,29.9,27.3,4.97,92.4,Secondary Retirement Review Required,Recalibrate Cell String 2
+REBUILT_TGT03_001,500,80.8,32.7,29.1,5.16,92.0,Secondary Retirement Review Required,Recalibrate Cell String 2
+REBUILT_TGT04_001,0,100.6,-0.5,7.0,1.17,99.3,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT04_001,50,97.9,3.9,10.5,1.61,98.0,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT04_001,100,95.7,6.6,9.4,2.2,97.7,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT04_001,150,95.6,10.9,13.8,2.38,97.2,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT04_001,200,93.1,12.2,13.9,2.68,96.4,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT04_001,250,90.7,16.8,16.6,2.74,95.7,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT04_001,300,88.3,18.5,20.2,3.76,94.7,Moderate Aging (Balancing Active),Optimal Performance
+REBUILT_TGT04_001,350,86.5,22.7,21.6,3.73,93.7,Moderate Aging (Balancing Active),Recalibrate Cell String 2
+REBUILT_TGT04_001,400,85.0,26.2,24.2,4.2,93.1,Moderate Aging (Balancing Active),Recalibrate Cell String 2
+REBUILT_TGT04_001,450,82.0,29.3,27.7,4.51,92.3,Secondary Retirement Review Required,Recalibrate Cell String 2
+REBUILT_TGT04_001,500,81.1,33.1,27.5,5.06,91.1,Secondary Retirement Review Required,Recalibrate Cell String 2
+REBUILT_TGT05_001,0,100.0,1.0,8.3,1.2,99.3,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT05_001,50,98.1,2.8,11.0,1.65,98.5,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT05_001,100,95.8,7.2,12.8,1.89,98.0,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT05_001,150,94.1,9.4,13.1,2.05,97.1,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT05_001,200,91.7,12.4,13.5,2.78,96.2,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT05_001,250,90.4,15.7,16.6,3.29,95.3,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT05_001,300,88.7,19.1,20.2,3.86,94.9,Moderate Aging (Balancing Active),Optimal Performance
+REBUILT_TGT05_001,350,86.5,22.9,21.7,4.0,93.9,Moderate Aging (Balancing Active),Recalibrate Cell String 2
+REBUILT_TGT05_001,400,84.7,26.1,22.8,4.2,92.8,Moderate Aging (Balancing Active),Recalibrate Cell String 2
+REBUILT_TGT05_001,450,82.3,28.6,26.2,4.62,92.6,Secondary Retirement Review Required,Recalibrate Cell String 2
+REBUILT_TGT05_001,500,81.0,31.5,28.8,5.36,91.4,Secondary Retirement Review Required,Recalibrate Cell String 2
+REBUILT_TGT06_001,0,100.2,-0.4,8.1,0.95,98.7,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT06_001,50,97.9,3.2,9.5,1.36,98.3,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT06_001,100,96.3,6.5,12.2,1.87,98.1,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT06_001,150,93.8,10.0,15.4,2.5,96.9,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT06_001,200,92.2,13.5,14.3,2.61,96.1,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT06_001,250,91.0,16.4,16.8,3.14,95.3,Stable Linear Degradation,Optimal Performance
+REBUILT_TGT06_001,300,88.3,20.0,18.4,3.92,94.9,Moderate Aging (Balancing Active),Optimal Performance
+REBUILT_TGT06_001,350,87.1,22.5,21.8,3.71,93.8,Moderate Aging (Balancing Active),Recalibrate Cell String 2
+REBUILT_TGT06_001,400,85.0,26.6,22.7,4.33,93.2,Moderate Aging (Balancing Active),Recalibrate Cell String 2
+REBUILT_TGT06_001,450,82.3,29.5,25.1,4.76,92.3,Secondary Retirement Review Required,Recalibrate Cell String 2
+REBUILT_TGT06_001,500,80.7,32.5,27.7,5.13,91.5,Secondary Retirement Review Required,Recalibrate Cell String 2
